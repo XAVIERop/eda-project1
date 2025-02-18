@@ -1,0 +1,4 @@
+Update (18/02/25): Created a learn_eda folder to document everything I'm learning from the EDA tutorial. I plan to apply these concepts to the assigned project.
+Tutorial link: https://www.youtube.com/watch?v=FNLLxYcUnow
+
+
